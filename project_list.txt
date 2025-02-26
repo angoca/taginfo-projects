@@ -45,6 +45,7 @@ josm_external_presets https://josm.openstreetmap.de/download/taginfo/taginfo_ext
 josm_main_mappaint_style https://josm.openstreetmap.de/download/taginfo/taginfo_style.json
 josm_main_presets https://josm.openstreetmap.de/download/taginfo/taginfo_presets.json
 josm_plmergeaddresses_plugin https://raw.githubusercontent.com/praszuk/josm-plmergeadresses-plugin/master/taginfo.json
+Kaart_Ground_Survey_2017_Colombia https://raw.githubusercontent.com/OSM-Colombia/TaginfoColombianProjects/refs/heads/main/projects/Kaart_Ground_Survey_2017/taginfo.json
 knooppuntnet https://raw.githubusercontent.com/vmarc/knooppuntnet/develop/docs/taginfo.json
 lgbtqmap https://pkoby.github.io/LGBTQmap/taginfo.json
 lunar_assembler_general_high_zoom https://raw.githubusercontent.com/matkoniecz/lunar_assembler/master/examples/generated/general_high_zoom_taginfo.json
